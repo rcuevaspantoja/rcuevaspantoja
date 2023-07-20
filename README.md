@@ -14,4 +14,6 @@ Beside that, im learning few other stuffs, heres the list
 - Python
 - Coding Interview Problems
 
+These days im really open to be part of anything coding related, so if you need any extra hand at something, hit me up
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcuevaspantoja)](https://github.com/anuraghazra/github-readme-stats)
