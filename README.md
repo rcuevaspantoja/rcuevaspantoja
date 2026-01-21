@@ -1,5 +1,4 @@
 #Hello there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> , [Rodolfo](https://rodolfocuevas.com/) here
-<img src="https://github.com/rcuevaspantoja/rcuevaspantoja/blob/master/Imagen.png?raw=true" width="125">
 
 I'm a Computer Civil Engineer from Concepción, Chile. I have 2+ years as a software engineer and 1 year as a SCADA Engineer.
 
@@ -12,4 +11,5 @@ Beside that, im learning few other stuffs, heres the list
 - Python
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcuevaspantoja)](https://github.com/anuraghazra/github-readme-stats)
+
 
