@@ -2,7 +2,7 @@
 
 Software Engineer, mainly coding on NextJS frontend pages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcuevaspantoja)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
