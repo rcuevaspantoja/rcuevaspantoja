@@ -1,5 +1,5 @@
 
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643514087/452/link-run.gif" width="25"/> 
+### Hi there! 
 
 I'm [Rodolfo](https://rodolfocuevas.com/), a software engineer based in Chile. I like to build clean and minimals apps to solve problems keeping things simple but modern.
 
