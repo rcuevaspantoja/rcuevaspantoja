@@ -17,6 +17,6 @@ I'm [Rodolfo](https://rodolfocuevas.com/), a software engineer based in Chile. I
 
 ---
 
-
+Currently studying Python to learn more about AI 
 
 
