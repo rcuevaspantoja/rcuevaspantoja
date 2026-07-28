@@ -11,9 +11,10 @@ I'm [Rodolfo](https://rodolfocuevas.com/), a software engineer based in Chile. I
 ---
 
 **Some stuff I built:**
-- [Win/Lose OBS Counter](https://github.com/rcuevaspantoja/winlose-obs-counter) - Plugin for Elgato Stream Deck that keeps a win/lose counter in a text file. Designed for live streaming
+- [Win/Lose OBS Counter](https://github.com/rcuevaspantoja/winlose-obs-counter) - Plugin for Elgato Stream Deck that keeps a win/lose counter in a text file. Designed for live streaming.
+- [Pomodoro/Stopwatch to GoogleCalendar](https://github.com/rcuevaspantoja/pomodoro-to-googlecalendar) - Pomodoro/Stopwatch tool that log entries into GoogleCalendar for tracking.
 - [Firmware for custom handwire keyboard](https://github.com/rcuevaspantoja/ZMK-cornekeyboard) - A keyboard layout and distribution designed to improve ergonomics for Spanish and English typists, with a strong focus on coding.
-- [Currency Converter](https://github.com/rcuevaspantoja/currency-converter) - A currency converter build with React
+- [Currency Converter](https://github.com/rcuevaspantoja/currency-converter) - A currency converter build with React.
 
 ---
 
